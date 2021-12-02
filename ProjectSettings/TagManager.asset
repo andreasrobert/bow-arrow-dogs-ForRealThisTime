@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - MovingPlatform
+  - Target
+  - Spikes
+  - Projectile
+  - Platform
+  - Mygun
+  - MyProjectile
+  - Enemy
+  - DogPlayer
+  - Waters
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - Platforms
+  - Enemy
+  - Projectile
+  - Action
+  - Player
+  - Block
+  - MyProjectile
+  - PurpleBlast
+  - Enemy7
+  - EnemyWaters
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Platforms
+    uniqueID: 1345275003
+    locked: 0
